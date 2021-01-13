@@ -1,0 +1,6 @@
+# Ignore builds
+/target
+
+# Ignore image files 
+*.png
+*.nc
