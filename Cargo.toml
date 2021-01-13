@@ -12,4 +12,4 @@ shapefile = "0.2.1"
 
 [dependencies.netcdf]
 version = "0.6.0"
-features = ["static"]
+features = ["static", "ndarray"]
