@@ -11,7 +11,5 @@ fn main() {
         }
     });
 
-//    match img.save("test.png") {
- //       Ok(_) => {},
-        
+    img.save("test.png").unwrap();
 }

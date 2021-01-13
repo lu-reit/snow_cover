@@ -4,3 +4,6 @@
 # Ignore image files 
 *.png
 *.nc
+
+# Ignore vims swap files
+*.swp
