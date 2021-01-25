@@ -9,6 +9,7 @@ edition = "2018"
 [dependencies]
 image = "0.23.12"
 shapefile = "0.2.1"
+ndarray = "0.14.0"
 
 [dependencies.netcdf]
 version = "0.6.0"
